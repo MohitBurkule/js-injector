@@ -1,6 +1,7 @@
 # javascript-injector
 Chrome extension for injecting javascript to the webpage you are visiting. It can be used as a handy tool to make your surfing a bit of more fun. I personally use it mainly during the test automation.
 
+Originally from [https://github.com/hex0cter/js-injector](https://github.com/hex0cter/js-injector)
 ## Install
 You can install the extension from [chrome web store](https://chrome.google.com/webstore/detail/javascript-injector/ejnccfcackblkelbafbolcpjfpcmbplg).
 
